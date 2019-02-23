@@ -1,1 +1,9 @@
 c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\bin\Debug\RowCalc.exe.config
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\obj\Debug\RowCalc.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\obj\Debug\RowCalc.Form1.resources
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\obj\Debug\RowCalc.Properties.Resources.resources
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\obj\Debug\RowCalc.csproj.GenerateResource.Cache
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\bin\Debug\RowCalc.exe
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\bin\Debug\RowCalc.pdb
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\obj\Debug\RowCalc.exe
+c:\users\jared\documents\visual studio 2013\Projects\RowCalc\RowCalc\obj\Debug\RowCalc.pdb
